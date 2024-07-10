@@ -1,8 +1,5 @@
 [TOC]
 
-整理不易，请支持一下！
-
-<img src="README.assets/919ab1ffc277675a60b1203c1cafb43.jpg" alt="919ab1ffc277675a60b1203c1cafb43" style="zoom: 25%;" />          <img src="README.assets/8b80d1f39813ad07a8eac6ab11b8d5b.jpg" alt="8b80d1f39813ad07a8eac6ab11b8d5b" style="zoom:25%;" />
 
 # 常用基础
 
